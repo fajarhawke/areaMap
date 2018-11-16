@@ -1,0 +1,1140 @@
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 0
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 2
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 3
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 4
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 5
+"../../../Engine/Content/BasicShapes/Cone.uasset" 6
+"../../../Engine/Content/BasicShapes/Cube.uasset" 7
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 8
+"../../../Engine/Content/BasicShapes/Plane.uasset" 9
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 10
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 11
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 12
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 13
+"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 15
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 17
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 18
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 19
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 22
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 23
+"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 24
+"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 25
+"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 26
+"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 27
+"../../../Engine/Content/BufferVisualization/Metallic.uasset" 28
+"../../../Engine/Content/BufferVisualization/Opacity.uasset" 29
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 30
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 31
+"../../../Engine/Content/BufferVisualization/Roughness.uasset" 32
+"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 33
+"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 34
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 35
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 36
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 37
+"../../../Engine/Content/BufferVisualization/Specular.uasset" 38
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 39
+"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 40
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 41
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 42
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 43
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 44
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 45
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 46
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 47
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 48
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 49
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 50
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 51
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 52
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 53
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 54
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 55
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 56
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 57
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 58
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 59
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 60
+"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 61
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 62
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 63
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 64
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 65
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 66
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 67
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 68
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 69
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 70
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 71
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 72
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 73
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 74
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 75
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 76
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 77
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 78
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 79
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 80
+"../../../Engine/Content/EditorMaterials/Tick.uasset" 81
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 82
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 83
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 84
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 85
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 86
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 87
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 88
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 89
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 90
+"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset" 91
+"../../../Engine/Content/MapTemplates/Sky/SunsetAmbientCubemap.uasset" 92
+"../../../Engine/Content/EditorMaterials/AssetViewer/M_SkyBox.uasset" 93
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 94
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 95
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 96
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 97
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 98
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 99
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 100
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 101
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 102
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 103
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 104
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 105
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 106
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 107
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 108
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 109
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 110
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 111
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 112
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 113
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 114
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 115
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 116
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 117
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 118
+"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 119
+"../../../Engine/Content/EditorMeshes/AssetViewer/Floor_Mesh.uasset" 120
+"../../../Engine/Content/EditorMeshes/AssetViewer/Sphere_inversenormals.uasset" 121
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 122
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 123
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 124
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 125
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 126
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 127
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 128
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 129
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 130
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 131
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 132
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 133
+"../../../Engine/Content/EditorResources/Bad.uasset" 134
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 135
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 136
+"../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 137
+"../../../Engine/Content/EditorResources/SceneManager.uasset" 138
+"../../../Engine/Content/EditorResources/SimplygonLogo.uasset" 139
+"../../../Engine/Content/EditorResources/SmallFont.uasset" 140
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 141
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.uasset" 142
+"../../../Engine/Content/EditorResources/S_Emitter.uasset" 143
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uasset" 144
+"../../../Engine/Content/EditorResources/S_FTest.uasset" 145
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 146
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 147
+"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 148
+"../../../Engine/Content/EditorResources/S_LevelSequence.uasset" 149
+"../../../Engine/Content/EditorResources/S_NavP.uasset" 150
+"../../../Engine/Content/EditorResources/S_Note.uasset" 151
+"../../../Engine/Content/EditorResources/S_Player.uasset" 152
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uasset" 153
+"../../../Engine/Content/EditorResources/S_RadForce.uasset" 154
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.uasset" 155
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 156
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uasset" 157
+"../../../Engine/Content/EditorResources/S_Thruster.uasset" 158
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 159
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 160
+"../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 161
+"../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 162
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 163
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 164
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 165
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 166
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 167
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 168
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 169
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 170
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 171
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 172
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 173
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 174
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 175
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 176
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 177
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 178
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 179
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 180
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 181
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 182
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 183
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 184
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 185
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 186
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 187
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 188
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 189
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 190
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 191
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 192
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 193
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 194
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 195
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 196
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 197
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 198
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 199
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 200
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 201
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 202
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 203
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 204
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 205
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 206
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 207
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 208
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 209
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 210
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 211
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 212
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 213
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 214
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 215
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 216
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 217
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 218
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 219
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 220
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 221
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 222
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 223
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 224
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 225
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 226
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 227
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 228
+"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 229
+"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 230
+"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 231
+"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 232
+"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 233
+"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 234
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 235
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 236
+"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 237
+"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 238
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 239
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 240
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 241
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 242
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 243
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 244
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 245
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 246
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 247
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 248
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 249
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 250
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 251
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 252
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 253
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 254
+"../../../Engine/Content/EngineResources/Black.uasset" 255
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 256
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 257
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 258
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 259
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 260
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 261
+"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 262
+"../../../Engine/Content/EngineSounds/Master.uasset" 263
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 264
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 265
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 266
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 267
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 268
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 269
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 285
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 286
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 287
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 288
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 289
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 290
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 291
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 292
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 293
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 294
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 295
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 296
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 297
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 298
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 299
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/sphere.uasset" 300
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Materials/baseUnlit.uasset" 301
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Materials/baseUnlit_Inst.uasset" 302
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 303
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 304
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 305
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 306
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 307
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 308
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 309
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 310
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 311
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 312
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 313
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 314
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 315
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 316
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 317
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 318
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 319
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 320
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 321
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 322
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 323
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 324
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 325
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 326
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 327
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 328
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 329
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 330
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 331
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 332
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 333
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 334
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat4Values.uasset" 335
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Color.uasset" 336
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/ExtractColor.uasset" 337
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/TileMirrorAxis.uasset" 338
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 339
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/UVEdit.uasset" 340
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Material.uasset" 341
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 342
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 343
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RevitMaster.uasset" 344
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/SketchUpMaster.uasset" 345
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 346
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 347
+"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 348
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 349
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 350
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDUVEdit.uasset" 351
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDBase.uasset" 352
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMaster.uasset" 353
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterTransparent.uasset" 354
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 355
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 356
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 357
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 358
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 359
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 360
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 361
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 362
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 363
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 364
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 365
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 366
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/HoveredFaceMaterial.uasset" 367
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/HoveredGeometryMaterial.uasset" 368
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/WireWorldOffset.uasset" 369
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/OverlayLineMaterial.uasset" 370
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/OverlayPointMaterial.uasset" 371
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/WireMaterial.uasset" 372
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/StarterContent/HDRI/384-free-hdri-skies-com.uasset" 373
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/StarterContent/HDRI/384-free-hdri-skies-com_Mat.uasset" 374
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 375
+"../../../Engine/Content/Maps/Entry.umap" 376
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 377
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 378
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 379
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 380
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 381
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 382
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 383
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 384
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 385
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 386
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 387
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 388
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 389
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Level/Map1_BuiltData.uasset" 390
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Textures/Flat_NM.uasset" 391
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Materials/baseColor.uasset" 392
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Materials/baseColor_Inst.uasset" 393
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Materials/baseColor_Inst1.uasset" 394
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Materials/baseColor_Inst2.uasset" 395
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Materials/baseColor_Inst3.uasset" 396
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/building1.uasset" 397
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/building2.uasset" 398
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/building3.uasset" 399
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/building4.uasset" 400
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh1.uasset" 401
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh10.uasset" 402
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh100.uasset" 403
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh101.uasset" 404
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh102.uasset" 405
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh103.uasset" 406
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh104.uasset" 407
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh105.uasset" 408
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh106.uasset" 409
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh107.uasset" 410
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh108.uasset" 411
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh109.uasset" 412
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh11.uasset" 413
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh110.uasset" 414
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh111.uasset" 415
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh112.uasset" 416
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh113.uasset" 417
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh114.uasset" 418
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh115.uasset" 419
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh116.uasset" 420
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh117.uasset" 421
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh118.uasset" 422
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh119.uasset" 423
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh12.uasset" 424
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh120.uasset" 425
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh121.uasset" 426
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh122.uasset" 427
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh123.uasset" 428
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh124.uasset" 429
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh125.uasset" 430
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh126.uasset" 431
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh127.uasset" 432
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh128.uasset" 433
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh129.uasset" 434
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh13.uasset" 435
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh130.uasset" 436
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh131.uasset" 437
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh132.uasset" 438
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh133.uasset" 439
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh134.uasset" 440
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh135.uasset" 441
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh136.uasset" 442
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh137.uasset" 443
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh138.uasset" 444
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh139.uasset" 445
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh14.uasset" 446
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh140.uasset" 447
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh141.uasset" 448
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh142.uasset" 449
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh143.uasset" 450
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh144.uasset" 451
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh145.uasset" 452
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh146.uasset" 453
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh147.uasset" 454
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh148.uasset" 455
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh149.uasset" 456
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh15.uasset" 457
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh150.uasset" 458
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh151.uasset" 459
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh152.uasset" 460
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh153.uasset" 461
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh154.uasset" 462
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh155.uasset" 463
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh156.uasset" 464
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh157.uasset" 465
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh158.uasset" 466
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh159.uasset" 467
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh16.uasset" 468
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh160.uasset" 469
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh161.uasset" 470
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh162.uasset" 471
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh163.uasset" 472
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh164.uasset" 473
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh165.uasset" 474
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh166.uasset" 475
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh167.uasset" 476
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh168.uasset" 477
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh169.uasset" 478
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh17.uasset" 479
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh170.uasset" 480
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh171.uasset" 481
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh172.uasset" 482
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh173.uasset" 483
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh174.uasset" 484
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh175.uasset" 485
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh176.uasset" 486
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh177.uasset" 487
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh178.uasset" 488
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh179.uasset" 489
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh18.uasset" 490
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh180.uasset" 491
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh181.uasset" 492
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh182.uasset" 493
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh183.uasset" 494
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh184.uasset" 495
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh185.uasset" 496
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh186.uasset" 497
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh187.uasset" 498
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh188.uasset" 499
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh189.uasset" 500
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh19.uasset" 501
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh190.uasset" 502
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh191.uasset" 503
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh192.uasset" 504
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh193.uasset" 505
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh194.uasset" 506
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh195.uasset" 507
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh196.uasset" 508
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh197.uasset" 509
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh198.uasset" 510
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh199.uasset" 511
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh2.uasset" 512
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh20.uasset" 513
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh200.uasset" 514
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh201.uasset" 515
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh202.uasset" 516
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh203.uasset" 517
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh204.uasset" 518
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh205.uasset" 519
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh206.uasset" 520
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh207.uasset" 521
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh208.uasset" 522
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh209.uasset" 523
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh21.uasset" 524
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh210.uasset" 525
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh211.uasset" 526
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh212.uasset" 527
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh213.uasset" 528
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh214.uasset" 529
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh215.uasset" 530
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh216.uasset" 531
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh217.uasset" 532
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh218.uasset" 533
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh219.uasset" 534
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh22.uasset" 535
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh220.uasset" 536
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh221.uasset" 537
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh222.uasset" 538
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh223.uasset" 539
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh224.uasset" 540
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh225.uasset" 541
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh226.uasset" 542
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh227.uasset" 543
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh228.uasset" 544
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh229.uasset" 545
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh23.uasset" 546
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh230.uasset" 547
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh231.uasset" 548
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh232.uasset" 549
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh233.uasset" 550
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh234.uasset" 551
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh235.uasset" 552
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh236.uasset" 553
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh237.uasset" 554
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh238.uasset" 555
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh239.uasset" 556
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh24.uasset" 557
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh240.uasset" 558
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh241.uasset" 559
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh242.uasset" 560
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh243.uasset" 561
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh244.uasset" 562
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh245.uasset" 563
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh246.uasset" 564
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh247.uasset" 565
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh248.uasset" 566
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh249.uasset" 567
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh25.uasset" 568
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh250.uasset" 569
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh251.uasset" 570
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh252.uasset" 571
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh253.uasset" 572
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh254.uasset" 573
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh255.uasset" 574
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh256.uasset" 575
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh257.uasset" 576
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh258.uasset" 577
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh259.uasset" 578
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh26.uasset" 579
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh260.uasset" 580
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh261.uasset" 581
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh262.uasset" 582
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh263.uasset" 583
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh264.uasset" 584
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh265.uasset" 585
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh266.uasset" 586
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh267.uasset" 587
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh268.uasset" 588
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh269.uasset" 589
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh27.uasset" 590
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh270.uasset" 591
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh271.uasset" 592
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh272.uasset" 593
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh273.uasset" 594
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh274.uasset" 595
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh275.uasset" 596
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh276.uasset" 597
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh277.uasset" 598
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh278.uasset" 599
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh279.uasset" 600
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh28.uasset" 601
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh280.uasset" 602
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh281.uasset" 603
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh282.uasset" 604
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh283.uasset" 605
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh284.uasset" 606
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh285.uasset" 607
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh286.uasset" 608
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh287.uasset" 609
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh288.uasset" 610
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh289.uasset" 611
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh29.uasset" 612
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh290.uasset" 613
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh291.uasset" 614
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh292.uasset" 615
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh293.uasset" 616
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh294.uasset" 617
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh295.uasset" 618
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh296.uasset" 619
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh297.uasset" 620
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh298.uasset" 621
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh299.uasset" 622
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh3.uasset" 623
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh30.uasset" 624
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh300.uasset" 625
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh301.uasset" 626
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh302.uasset" 627
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh303.uasset" 628
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh304.uasset" 629
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh305.uasset" 630
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh306.uasset" 631
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh307.uasset" 632
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh308.uasset" 633
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh309.uasset" 634
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh31.uasset" 635
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh310.uasset" 636
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh311.uasset" 637
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh312.uasset" 638
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh313.uasset" 639
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh314.uasset" 640
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh315.uasset" 641
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh316.uasset" 642
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh317.uasset" 643
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh318.uasset" 644
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh319.uasset" 645
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh32.uasset" 646
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh320.uasset" 647
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh321.uasset" 648
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh322.uasset" 649
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh323.uasset" 650
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh324.uasset" 651
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh325.uasset" 652
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh326.uasset" 653
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh327.uasset" 654
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh328.uasset" 655
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh329.uasset" 656
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh33.uasset" 657
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh330.uasset" 658
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh331.uasset" 659
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh332.uasset" 660
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh333.uasset" 661
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh334.uasset" 662
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh335.uasset" 663
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh336.uasset" 664
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh337.uasset" 665
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh338.uasset" 666
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh339.uasset" 667
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh34.uasset" 668
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh340.uasset" 669
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh341.uasset" 670
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh342.uasset" 671
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh343.uasset" 672
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh344.uasset" 673
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh345.uasset" 674
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh346.uasset" 675
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh347.uasset" 676
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh348.uasset" 677
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh349.uasset" 678
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh35.uasset" 679
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh350.uasset" 680
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh351.uasset" 681
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh352.uasset" 682
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh353.uasset" 683
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh354.uasset" 684
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh355.uasset" 685
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh356.uasset" 686
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh357.uasset" 687
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh358.uasset" 688
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh359.uasset" 689
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh36.uasset" 690
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh360.uasset" 691
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh361.uasset" 692
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh362.uasset" 693
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh363.uasset" 694
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh364.uasset" 695
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh365.uasset" 696
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh366.uasset" 697
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh367.uasset" 698
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh368.uasset" 699
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh369.uasset" 700
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh37.uasset" 701
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh370.uasset" 702
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh371.uasset" 703
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh372.uasset" 704
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh373.uasset" 705
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh374.uasset" 706
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh375.uasset" 707
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh376.uasset" 708
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh377.uasset" 709
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh378.uasset" 710
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh379.uasset" 711
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh38.uasset" 712
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh380.uasset" 713
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh381.uasset" 714
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh382.uasset" 715
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh383.uasset" 716
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh384.uasset" 717
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh385.uasset" 718
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh386.uasset" 719
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh387.uasset" 720
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh388.uasset" 721
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh389.uasset" 722
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh39.uasset" 723
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh390.uasset" 724
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh391.uasset" 725
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh392.uasset" 726
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh393.uasset" 727
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh394.uasset" 728
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh395.uasset" 729
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh396.uasset" 730
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh397.uasset" 731
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh398.uasset" 732
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh399.uasset" 733
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh4.uasset" 734
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh40.uasset" 735
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh400.uasset" 736
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh401.uasset" 737
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh402.uasset" 738
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh403.uasset" 739
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh404.uasset" 740
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh405.uasset" 741
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh406.uasset" 742
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh407.uasset" 743
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh408.uasset" 744
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh409.uasset" 745
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh41.uasset" 746
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh410.uasset" 747
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh411.uasset" 748
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh412.uasset" 749
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh413.uasset" 750
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh414.uasset" 751
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh415.uasset" 752
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh416.uasset" 753
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh417.uasset" 754
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh418.uasset" 755
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh419.uasset" 756
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh42.uasset" 757
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh420.uasset" 758
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh421.uasset" 759
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh422.uasset" 760
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh423.uasset" 761
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh424.uasset" 762
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh425.uasset" 763
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh426.uasset" 764
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh427.uasset" 765
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh428.uasset" 766
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh429.uasset" 767
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh43.uasset" 768
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh430.uasset" 769
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh431.uasset" 770
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh432.uasset" 771
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh433.uasset" 772
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh434.uasset" 773
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh435.uasset" 774
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh436.uasset" 775
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh437.uasset" 776
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh438.uasset" 777
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh439.uasset" 778
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh44.uasset" 779
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh440.uasset" 780
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh441.uasset" 781
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh442.uasset" 782
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh443.uasset" 783
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh444.uasset" 784
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh445.uasset" 785
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh446.uasset" 786
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh447.uasset" 787
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh448.uasset" 788
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh449.uasset" 789
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh45.uasset" 790
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh450.uasset" 791
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh451.uasset" 792
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh452.uasset" 793
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh453.uasset" 794
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh454.uasset" 795
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh455.uasset" 796
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh456.uasset" 797
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh457.uasset" 798
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh458.uasset" 799
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh459.uasset" 800
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh46.uasset" 801
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh460.uasset" 802
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh461.uasset" 803
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh462.uasset" 804
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh463.uasset" 805
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh464.uasset" 806
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh465.uasset" 807
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh466.uasset" 808
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh467.uasset" 809
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh468.uasset" 810
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh469.uasset" 811
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh47.uasset" 812
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh470.uasset" 813
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh471.uasset" 814
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh472.uasset" 815
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh473.uasset" 816
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh474.uasset" 817
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh475.uasset" 818
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh476.uasset" 819
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh477.uasset" 820
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh478.uasset" 821
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh479.uasset" 822
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh48.uasset" 823
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh480.uasset" 824
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh481.uasset" 825
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh482.uasset" 826
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh483.uasset" 827
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh484.uasset" 828
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh485.uasset" 829
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh486.uasset" 830
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh487.uasset" 831
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh488.uasset" 832
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh489.uasset" 833
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh49.uasset" 834
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh490.uasset" 835
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh491.uasset" 836
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh492.uasset" 837
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh493.uasset" 838
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh494.uasset" 839
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh495.uasset" 840
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh496.uasset" 841
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh497.uasset" 842
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh498.uasset" 843
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh499.uasset" 844
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh5.uasset" 845
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh50.uasset" 846
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh500.uasset" 847
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh501.uasset" 848
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh502.uasset" 849
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh503.uasset" 850
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh504.uasset" 851
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh505.uasset" 852
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh506.uasset" 853
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh507.uasset" 854
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh508.uasset" 855
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh509.uasset" 856
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh51.uasset" 857
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh510.uasset" 858
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh511.uasset" 859
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh512.uasset" 860
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh513.uasset" 861
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh514.uasset" 862
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh515.uasset" 863
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh516.uasset" 864
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh517.uasset" 865
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh518.uasset" 866
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh519.uasset" 867
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh52.uasset" 868
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh520.uasset" 869
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh521.uasset" 870
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh522.uasset" 871
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh523.uasset" 872
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh524.uasset" 873
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh525.uasset" 874
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh526.uasset" 875
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh527.uasset" 876
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh528.uasset" 877
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh529.uasset" 878
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh53.uasset" 879
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh530.uasset" 880
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh531.uasset" 881
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh532.uasset" 882
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh533.uasset" 883
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh534.uasset" 884
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh535.uasset" 885
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh536.uasset" 886
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh537.uasset" 887
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh538.uasset" 888
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh539.uasset" 889
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh54.uasset" 890
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh540.uasset" 891
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh541.uasset" 892
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh542.uasset" 893
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh543.uasset" 894
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh544.uasset" 895
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh545.uasset" 896
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh546.uasset" 897
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh547.uasset" 898
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh548.uasset" 899
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh549.uasset" 900
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh55.uasset" 901
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh550.uasset" 902
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh551.uasset" 903
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh552.uasset" 904
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh553.uasset" 905
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh554.uasset" 906
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh555.uasset" 907
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh556.uasset" 908
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh557.uasset" 909
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh558.uasset" 910
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh559.uasset" 911
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh56.uasset" 912
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh560.uasset" 913
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh561.uasset" 914
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh562.uasset" 915
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh563.uasset" 916
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh564.uasset" 917
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh565.uasset" 918
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh566.uasset" 919
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh567.uasset" 920
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh568.uasset" 921
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh569.uasset" 922
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh57.uasset" 923
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh570.uasset" 924
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh571.uasset" 925
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh572.uasset" 926
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh573.uasset" 927
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh574.uasset" 928
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh575.uasset" 929
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh576.uasset" 930
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh577.uasset" 931
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh578.uasset" 932
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh579.uasset" 933
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh58.uasset" 934
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh580.uasset" 935
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh581.uasset" 936
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh582.uasset" 937
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh583.uasset" 938
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh584.uasset" 939
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh585.uasset" 940
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh586.uasset" 941
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh587.uasset" 942
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh588.uasset" 943
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh589.uasset" 944
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh59.uasset" 945
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh590.uasset" 946
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh591.uasset" 947
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh592.uasset" 948
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh593.uasset" 949
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh594.uasset" 950
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh595.uasset" 951
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh596.uasset" 952
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh597.uasset" 953
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh598.uasset" 954
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh599.uasset" 955
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh6.uasset" 956
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh60.uasset" 957
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh600.uasset" 958
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh601.uasset" 959
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh602.uasset" 960
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh603.uasset" 961
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh604.uasset" 962
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh605.uasset" 963
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh606.uasset" 964
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh607.uasset" 965
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh608.uasset" 966
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh609.uasset" 967
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh61.uasset" 968
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh610.uasset" 969
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh611.uasset" 970
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh612.uasset" 971
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh613.uasset" 972
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh614.uasset" 973
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh615.uasset" 974
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh616.uasset" 975
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh617.uasset" 976
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh618.uasset" 977
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh619.uasset" 978
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh62.uasset" 979
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh620.uasset" 980
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh621.uasset" 981
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh622.uasset" 982
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh623.uasset" 983
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh624.uasset" 984
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh625.uasset" 985
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh626.uasset" 986
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh627.uasset" 987
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh628.uasset" 988
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh629.uasset" 989
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh63.uasset" 990
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh630.uasset" 991
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh631.uasset" 992
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh632.uasset" 993
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh633.uasset" 994
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh634.uasset" 995
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh635.uasset" 996
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh636.uasset" 997
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh637.uasset" 998
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh638.uasset" 999
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh639.uasset" 1000
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh64.uasset" 1001
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh640.uasset" 1002
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh641.uasset" 1003
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh642.uasset" 1004
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh643.uasset" 1005
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh644.uasset" 1006
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh645.uasset" 1007
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh646.uasset" 1008
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh647.uasset" 1009
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh648.uasset" 1010
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh649.uasset" 1011
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh65.uasset" 1012
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh650.uasset" 1013
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh651.uasset" 1014
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh652.uasset" 1015
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh653.uasset" 1016
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh654.uasset" 1017
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh655.uasset" 1018
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh656.uasset" 1019
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh657.uasset" 1020
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh658.uasset" 1021
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh659.uasset" 1022
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh66.uasset" 1023
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh660.uasset" 1024
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh661.uasset" 1025
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh662.uasset" 1026
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh663.uasset" 1027
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh664.uasset" 1028
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh665.uasset" 1029
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh666.uasset" 1030
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh667.uasset" 1031
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh668.uasset" 1032
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh669.uasset" 1033
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh67.uasset" 1034
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh670.uasset" 1035
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh671.uasset" 1036
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh672.uasset" 1037
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh673.uasset" 1038
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh674.uasset" 1039
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh675.uasset" 1040
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh676.uasset" 1041
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh677.uasset" 1042
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh678.uasset" 1043
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh679.uasset" 1044
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh68.uasset" 1045
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh680.uasset" 1046
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh681.uasset" 1047
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh682.uasset" 1048
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh683.uasset" 1049
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh684.uasset" 1050
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh685.uasset" 1051
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh686.uasset" 1052
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh687.uasset" 1053
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh688.uasset" 1054
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh689.uasset" 1055
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh69.uasset" 1056
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh690.uasset" 1057
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh691.uasset" 1058
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh692.uasset" 1059
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh693.uasset" 1060
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh694.uasset" 1061
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh695.uasset" 1062
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh696.uasset" 1063
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh697.uasset" 1064
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh698.uasset" 1065
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh699.uasset" 1066
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh7.uasset" 1067
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh70.uasset" 1068
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh700.uasset" 1069
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh701.uasset" 1070
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh702.uasset" 1071
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh703.uasset" 1072
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh704.uasset" 1073
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh705.uasset" 1074
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh706.uasset" 1075
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh707.uasset" 1076
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh708.uasset" 1077
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh709.uasset" 1078
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh71.uasset" 1079
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh710.uasset" 1080
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh711.uasset" 1081
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh712.uasset" 1082
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh713.uasset" 1083
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh714.uasset" 1084
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh715.uasset" 1085
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh716.uasset" 1086
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh717.uasset" 1087
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh718.uasset" 1088
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh719.uasset" 1089
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh72.uasset" 1090
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh720.uasset" 1091
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh721.uasset" 1092
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh722.uasset" 1093
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh723.uasset" 1094
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh724.uasset" 1095
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh725.uasset" 1096
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh726.uasset" 1097
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh727.uasset" 1098
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh728.uasset" 1099
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh729.uasset" 1100
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh73.uasset" 1101
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh730.uasset" 1102
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh731.uasset" 1103
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh732.uasset" 1104
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh733.uasset" 1105
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh734.uasset" 1106
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh74.uasset" 1107
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh75.uasset" 1108
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh76.uasset" 1109
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh77.uasset" 1110
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh78.uasset" 1111
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh79.uasset" 1112
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh8.uasset" 1113
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh80.uasset" 1114
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh81.uasset" 1115
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh82.uasset" 1116
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh83.uasset" 1117
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh84.uasset" 1118
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh85.uasset" 1119
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh86.uasset" 1120
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh87.uasset" 1121
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh88.uasset" 1122
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh89.uasset" 1123
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh9.uasset" 1124
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh90.uasset" 1125
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh91.uasset" 1126
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh92.uasset" 1127
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh93.uasset" 1128
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh94.uasset" 1129
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh95.uasset" 1130
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh96.uasset" 1131
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh97.uasset" 1132
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh98.uasset" 1133
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/City/city1_Mesh99.uasset" 1134
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/land.uasset" 1135
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/main.uasset" 1136
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/misc1.uasset" 1137
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Architectures/parkinglot1.uasset" 1138
+"C:/Users/Fajar/Documents/Unreal Projects/areaMap/Content/Level/Map1.umap" 1139
